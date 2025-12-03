@@ -1,7 +1,7 @@
 import React from 'react';
 import { useAuthContext } from '../context/AuthContext';
 import { Link, useNavigate } from 'react-router-dom';
-import '../pages/dashboard.css'; // Import del CSS
+import '../pages/Dashboard.css'; // Import del CSS
 
 export default function Dashboard() {
   const { usuario, cerrarSesion } = useAuthContext();
