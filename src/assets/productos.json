@@ -1,0 +1,103 @@
+[
+  {
+    "titulo": "El Aleph",
+    "autor": "Jorge Luis Borges",
+    "avatar": "https://http2.mlstatic.com/D_636451-MLA86479909051_062025-C.jpg",
+    "descripcion": " La mayoría de los cuentos reunidos en este libro pertenecen al género fantástico. Algunos surgieron, según sostiene el autor, a partir de crónicas policiales, de pinturas o simplemente de la visión de algún conventillo; otro explora el efecto que la inmortalidad causaría en los hombres",
+    "categoria": "Clasico",
+    "stock": 22,
+    "precio": 23000,
+    "id": "1"
+  },
+  {
+    "titulo": "Violeta",
+    "autor": "Isabel Allende",
+    "avatar": " https://www.pasajeslibros.com/static/img/portadas/_visd_0001JPG0JIHL.jpg",
+    "descripcion": "Violeta, la primera niña de una familia de cinco bulliciosos hermanos, viene al mundo un tormentoso día de 1920. Desde el principio su vida estará marcada por acontecimientos extraordinarios, pues todavía se sienten las ondas expansivas de la Gran Guerra cuando la gripe española llega a las orillas de su país sudamericano natal, casi en el momento exacto de su nacimiento.",
+    "categoria": "Novela",
+    "stock": 25,
+    "precio": 46990,
+    "id": "2"
+  },
+  {
+    "titulo": "Mafalda",
+    "autor": "Quino",
+    "avatar": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/733040-11ba722df9507435bc17532884442452-1024-1024.webp",
+    "descripcion": "La historieta más vendida de latinoamérica. Originalmente publicada entre 1964 y 1973, esta serie de libros muestran una crítica muy aguda del mundo y la realidad hecha por una niña demasiado madura. Mafalda ha sido traducida a 15 idiomas y su vigencia y humor perdura treinta años después.",
+    "categoria": "Humor",
+    "stock": 50,
+    "precio": 33000,
+    "id": "3"
+  },
+  {
+    "titulo": "El Hacedor",
+    "autor": "Jorge Luis Borges",
+    "avatar": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/619041-f24f876688526813da17400698474122-1024-1024.webp",
+    "descripcion": "..yo vivo, yo me dejo vivir, para que Borges pueda tramar su literatura y esa literatura me justifica.» El hacedor es, según Borges, uno de sus libros más personales, una miscelánea que 'abunda en reflejos y en interpolaciones', compilada por el tiempo y no por él. Formalmente, aquí hay diversidad de géneros: relatos, poemas, ensayos; sin embargo, nada es lo que parece, y podrá leerse ensayo en la poesía, relato en el ensayo y poesía en ambos.",
+    "categoria": "Novelas",
+    "stock": 14,
+    "precio": 30000,
+    "id": "4"
+  },
+  {
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel Garcia Marquez",
+    "avatar": "https://acdn-us.mitiendanube.com/stores/005/655/242/products/100-anos-de-soledad-cf8140bdfc2f27d36817597632369828-1024-1024.webp",
+    "descripcion": "«Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo. Macondo era entonces una aldea a la orilla de un río que se precipitaban por un lecho de piedras pulidas, blancas y enormes como huevos prehistóricos. El mundo era tan reciente, que muchas cosas carecían de nombre, y para mencionarlas había que señalarlas con el dedo». Con estas palabras empieza la novela ya legendaria en los anales de la literatura universal",
+    "categoria": "Novela",
+    "stock": 10,
+    "precio": 34500,
+    "id": "5"
+  },
+  {
+    "titulo": "La metamorfosis",
+    "autor": "Fran Kafka",
+    "avatar": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/412497-4273f0a593095c684a17291978806645-640-0.webp",
+    "descripcion": "La metamorfosis es una novela corta de Franz Kafka que narra la transformación de Gregor Samsa en un monstruoso insecto. La sinopsis se centra en la reacción de su familia ante este cambio,",
+    "categoria": "Ficcion",
+    "stock": 15,
+    "precio": 16800,
+    "id": "6"
+  },
+  {
+    "titulo": "Crimen y Castigo",
+    "autor": "Fiodor Dostoyevski",
+    "avatar": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/700420-f80f53552e063a3b7c17349780832919-1024-1024.webp ",
+    "descripcion": "Crimen y castigo narra la historia del estudiante Rodion Raskolnikov, quien, atormentado por la pobreza, asesina a una anciana prestamista y se enfrenta a una profunda angustia moral y psicológica. La novela explora sus motivaciones, la lucha interna entre el bien y el mal, ",
+    "categoria": "Novelas",
+    "stock": 18,
+    "precio": 27700,
+    "id": "7"
+  },
+  {
+    "titulo": "Medicina Preventiva",
+    "autor": "Florencia Raele",
+    "avatar": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/694334-91e95da34cc1bfa78917285735125398-1024-1024.webp",
+    "descripcion": "Desde hace décadas, recibimos mensajes incorrectos sobre nuestra alimentación, tanto por parte de la industria como de las entidades sanitarias, llevándonos a confiar más en las inscripciones en las etiquetas de un producto ultraprocesado que en los alimentos que nos acompañaron durante toda nuestra evolución.",
+    "categoria": "Autoayuda",
+    "stock": 12,
+    "precio": 49900,
+    "id": "8"
+  },
+  {
+    "titulo": "El ultimo secreto",
+    "autor": "Dan Brown",
+    "avatar": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/9789504992646-fa94573a9da113db7217489635173738-1024-1024.webp",
+    "descripcion": "El último secreto es un thriller de Dan Brown donde la neurocientífica Katherine Solomon está a punto de revelar descubrimientos sobre la conciencia humana que desafían creencias milenarias.",
+    "categoria": "Ficcion",
+    "stock": 17,
+    "precio": 49900,
+    "id": "9"
+  },
+   {
+    "titulo": "La muerte ajena",
+    "autor": "Laura Piñeiro",
+    "avatar": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/729474-0bc546e1d9b457307417455269481654-1024-1024.webp",
+    "descripcion": "«Juliana cae al vacío, lleva un vestido blanco, vaporoso, que se agita en el aire, pero en vez de estrellarse contra el piso, justo antes de llegar, mueve sus brazos y vuela como una mariposa».",
+    "categoria": "Ficcion",
+    "stock": "15",
+    "precio": "41000",
+    "id": "10"
+  }
+]
+ 
